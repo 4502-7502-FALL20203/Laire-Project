@@ -50,11 +50,15 @@ nav {
   border-bottom: 3px solid #FFF;
 }
 
-ul, ol {
+ul{
+  padding-left: 2rem;
   list-style-type: none;
-  padding-inline-start: 0px;
-  margin-block-start: 0px;
-  margin-block-end: 0px;
+}
+
+ul, li {
+  padding-left: 2rem;
+  background-position: 0 0;
+  background-repeat: no-repeat;
 }
 
 /*end of updated nav and ul, ol*/
