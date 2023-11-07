@@ -103,8 +103,8 @@ nav li, nav li a {
 
 /*Footer section*/
 footer {
-  background: #000;
-  color: #E3AD16;
+  background: #D4ECF7
+  color: #4BAED8;
   width: 100%;
   margin: 0;
   padding: 1rem;
@@ -195,7 +195,7 @@ button {
   }
 
   .media-list .text-holder {
-    width: 70%;
+    width: 100%;
   }
 
   nav ul {
@@ -205,7 +205,7 @@ button {
   }
 
   nav li {
-    width: 50%;
+    width: 100%;
   }
 
 }
