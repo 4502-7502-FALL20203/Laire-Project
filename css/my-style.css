@@ -149,12 +149,12 @@ address {
   margin-inline-start: 0;
   margin-inline-end: 0;
   margin: 4rem auto;
-  width: 100%;
-  max-width: 700px;
+  width: 90%;
+  max-width: 500px;
 }
 
 .gallery-image img {
-  width: 100%;
+  width: 60%;
 }
 
 .button_holder {
