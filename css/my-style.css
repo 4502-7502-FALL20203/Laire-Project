@@ -22,7 +22,10 @@ font-family: 'Abril Fatface'; */
 
 html {
 font-size: 20px;
-}
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;}
 
 body {
   margin: 0px;
@@ -150,11 +153,17 @@ footer {
   width: 100%;
   max-width: 250px;
   margin: 0 auto;
-}
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;}
 
 address {
   font-style: normal;
-}
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;}
 
 /*figure and .gallery-image styles*/
 
