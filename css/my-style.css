@@ -92,6 +92,12 @@ h2 {
   align-items: center;
   flex-direction: column;}
 
+p {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;}
+
 li {
   list-style-type: none;
   font-style: italic;
