@@ -28,7 +28,10 @@ body {
   margin: 0px;
   background-color: #FCFAEE;
   font-family: Onest;
-}
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;}
 
 main {
   width: 90%;
