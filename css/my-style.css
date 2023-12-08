@@ -68,7 +68,10 @@ a {
   font-weight: bold;
   font-style: italic;
   text-decoration: none;
-}
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;}
 
 h1, h2, h3 {
   font-family: 'Playfair Display';
@@ -129,7 +132,8 @@ footer {
   flex-direction: column;
   gap: 1.2rem;
   box-sizing: border-box;
-}
+  justify-content: center;
+  align-items: center;}
 
 .image-holder, .text-holder {
   width: 100%;
@@ -138,6 +142,8 @@ footer {
   display: flex;
   flex-direction: column;
   box-sizing: border-box;
+  justify-content: center;
+  align-items: center;
 }
 
 .image-holder img {
