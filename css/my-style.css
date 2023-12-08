@@ -20,6 +20,12 @@ font-family: 'Abril Fatface'; */
   font-size: 2rem;
 }
 
+.flex-start {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  flex-direction: column;}
+
 html {
 font-size: 20px;
   display: flex;
